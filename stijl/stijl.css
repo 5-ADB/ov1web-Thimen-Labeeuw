@@ -1,0 +1,51 @@
+h1{
+    width: 300px;
+}
+
+.menu{
+    position: absolute;
+    display: inline;
+    width: 200px;
+    margin-left: 85%;
+    top: 0px;
+}
+
+.home{
+    display: inline;
+    margin-right: 10px;
+}
+
+.bestellen{
+    display: inline;
+}
+
+.info{
+    display: inline;
+    margin-right: 10px;
+}
+
+.tekst{
+    width: 500px;
+}
+
+img{
+    width: 300px;
+    display: inline;
+}
+
+p{
+    display: inline;
+}
+
+.img1{
+    float: right;
+}
+
+.tekst_img{
+    margin-bottom: 50px;
+}
+
+.p1
+
+
+

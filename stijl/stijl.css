@@ -28,24 +28,50 @@ h1{
     width: 500px;
 }
 
-img{
-    width: 300px;
-    display: inline;
-}
+
 
 p{
+    margin-right: 10px;
     display: inline;
+    width: 500px;
 }
 
 .img1{
     float: right;
+    width: 300px;
+    display: inline;
 }
 
 .tekst_img{
     margin-bottom: 50px;
 }
 
-.p1
 
 
+.img2{
+    margin-right: 10px;
+    float: left;
+    background-color: red;
+    width: 300px;
+    display: inline;
+}
 
+.msg{
+    position: fixed;
+    width: 100px;
+}
+
+.msg_img{
+    width: 50px;
+
+}
+
+.msg_img1{
+    width: 50px;
+    margin-top: 450PX;
+}
+
+.msg_img3{
+    width: 50px;
+    margin-top: 400pX;
+}
